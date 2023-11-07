@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Todo.Domain": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
